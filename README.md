@@ -1,5 +1,19 @@
-### Hi there 👋
+### Portfoli <Kim Yong Hwan>
+##
+### [학습노트 - Velog] (https://velog.io/@kimyonghwan1996/posts)
 
+#### DataAnalysis
+> Python, R
+> Stata, SPSS
+> SQL(Oracle)
+> MachineLearning(Regression,Clusturing, Classfication ...)
+> DeepLearning(CNN,RNN)
+
+<br/>
+
+**1996.08.07**
+
+<br/>
 <!--
 **kimyonghwan1996/kimyonghwan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
