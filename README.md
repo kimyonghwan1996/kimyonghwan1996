@@ -9,6 +9,11 @@
 > MachineLearning(Regression,Clusturing, Classfication ...)
 > DeepLearning(CNN,RNN)
 
+#### Develops
+> JAVA
+> Oracle
+> HTML, JAVA Scripts, CSS, JPS, JQuery
+> Server(Tomcat)
 <br/>
 
 **1996.08.07**
