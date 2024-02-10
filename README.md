@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kim YongHwan</h1>
-<h3 align="center">Dreaming for Engineer of DataAnalytics & Dev & Ops</h3>
+<h1 align="left">Hi 👋, I'm Kim YongHwan</h1>
+<h3 align="left">Dreaming for Engineer of DataAnalytics & Dev & Ops</h3>
 
 - 🔭 I’m currently working on **랜선 스터디 웹페이지 제작, DACON-이커머스 고객 세분화 분석 아이디어 경진대회**
 
