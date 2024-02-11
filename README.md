@@ -33,14 +33,6 @@
 <br/>
 
 
-**1996.08.07**
-
-<br/>
-<!--
-**kimyonghwan1996/kimyonghwan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
 # 📜 김용환 포트폴리오
 
 > 김용환(YongHwan Kim) <br/>
