@@ -32,15 +32,6 @@
 > Server(Tomcat) <br/>
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyonghwan1996/&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimyonghwan1996/&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimyonghwan1996/&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
 
 **1996.08.07**
 
@@ -48,27 +39,30 @@
 <!--
 **kimyonghwan1996/kimyonghwan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 # 📜 김용환 포트폴리오
 
-> 김용환(YongHwan Kim) - kimphysicsman 포트폴리오
+> 김용환(YongHwan Kim) <br/>
+> 1996.08.07 <br/>
+> 한양대학교 에리카캠퍼스 경제학부 <br/>
+> 2022 한양대학교 비즈니스 빅데이터 연구모임 및 해커톤 우승 <br/>
+> 2022 한양대학교 경상대학 Economics with Python 코딩대회 3위 <br/>
+> 2023 한양대학교 경상대학 Economics with Python 코딩대회 2위 <br/>
+> 2023 데이터 청년 캠퍼스 수료 <br/>
+> 2024 네이버 클라우드 캠프 DevOps과정 중 <br/>
 
 <br />
 
 # 👋 Intro
 
-> 안녕하세요! ***"항상 새로운 것을 배우고 도전하고 싶은"*** 김동우입니다!  
-> 5개월간 ***팀장***을 맡으며 팀 프로젝트를 진행하여 백엔드 개발자 역량을 길렀고  
-> 내가 이해한 내용을 다른 사람들에게 설명하며 함께 성장할 수 있도록 ***영상***으로 기록했습니다.  
-> 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!
+>  ***"배우고 도전하는 것이 즐거운"*** 김용환입니다!  
+> 다양한 데이터 분석 프로젝트를 진행하여 데이터 분석 역량을 길렀고  
+> IT와 프로그래밍의 역량을 확장하고자 DevOps과정 중에있습니다  
 
 <br />
 
 # 📝Projects
-5개월간 진행했던 프로젝트들 입니다!  
-팀장으로서는 운영적인 면과 ***팀원들 학습 관리***, 프로젝트 일정 관리 등 많은 경험을 할 수 있었고,  
-프로젝트 역할면에서는 ***프로젝트 MVP와 관련된 핵심 기능과 알고리즘 개발***을 맡아 진행했습니다.
 
 ## 1. 🛫 MyLittleTrip
 
@@ -154,44 +148,3 @@ Here are some ideas to get you started:
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/retro_main)
 
 <br />
-
-# 🎞 Youtube
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://youtu.be/BYKYpyyJfKU" title="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-        </a>
-      </td>
-      <td>
-        <a href="https://youtu.be/HR1b2hrxvbY" title="사오이십조 - DRF 5일차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186109362-b40c300c-0906-4062-9bc3-8229e692af8e.png" width="300" alt-text="사오이십조 - DRF 5일차 스터디영상">
-        </a>
-      </td>
-      <td>
-        <a href="https://youtu.be/nXTzsSGfIbg" title="사오이십조 - 220624아침퀴즈 스터디영상">
-        <img align="center" src="https://user-images.githubusercontent.com/68724828/186110013-b5c77cf3-0bbc-481a-897b-d3a30bc74be6.png" width="300" alt-text="사오이십조 - 220624아침퀴즈 스터디영상">
-          </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
-
-
-<br />
-<br />
-
-# 📞 Contact
-
-- 이메일 : kimphysicsman@gmail.com
-- 블로그 : <a href="https://velog.io/@kimphysicsman">
-  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
-  </a>
-- 깃허브 : <a href="https://github.com/kimphysicsman">
-  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
-  </a>
-- 유튜브 :<a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg">
-  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
-  </a>
