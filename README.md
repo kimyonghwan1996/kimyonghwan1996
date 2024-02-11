@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Kim YongHwan</h1>
-<h3 align="left">Dreaming for Engineer of DataAnalytics & Dev & Ops</h3>
+<h3 align="left">Dreaming for Engineer of DataAnalysis & Dev & Ops</h3>
 
 - 🔭 I’m currently working on **랜선 스터디 웹페이지 제작, DACON-이커머스 고객 세분화 분석 아이디어 경진대회**
 
-- 🌱 I’m currently learning **네이버 클라우드 캠프 데브옵스 과정, 웹 개발훈련을 통한 IT역량 강화**
+- 🌱 I’m currently learning **네이버 클라우드 캠프 데브옵스 과정**
 
 - 📝 I regularly write articles on [https://velog.io/@kimyonghwan1996/posts](https://velog.io/@kimyonghwan1996/posts)
 
