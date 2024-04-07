@@ -21,15 +21,19 @@
 #### DataAnalysis
 > Python, R <br/>
 > Stata, SPSS <br/>
-> SQL(Oracle) <br/>
+> SQL(Oracle, MySQL) <br/>
 > MachineLearning(Regression,Clusturing, Classfication ...)<br/>
 > DeepLearning(CNN,RNN) <br/>
 
 #### Develops
 > JAVA <br/>
-> Oracle <br/>
-> HTML, JAVA Scripts, CSS, JPS, JQuery <br/>
-> Server(Tomcat) <br/>
+> Oracle, MySQL <br/>
+> HTML, JAVA Scripts, CSS, JPS, JQuery, Srping <br/>
+<br/>
+
+#### CI/CD
+> Naver Cloud <br/>
+> Docker, Jenkins <br/>
 <br/>
 
 
@@ -113,7 +117,5 @@
 > -기본 데이터셋에서 크롤링하여 기업들의 EY, ROE 데이터셋을 구한 뒤 LSTM,과 ARIMA 기법으로 주가 상승 예측 <br />
 > -Private 순위 상위 11% 달성<br />
 > -역할 : 데이터 분석, 기여도 :데이터 분석 100%<br />
->
->> -이커머스 고객 세분화 분석 아이디어 경진대회 (진행중)<br />
 
 <br />
