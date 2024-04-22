@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **랜선 스터디 웹페이지 제작, DACON-이커머스 고객 세분화 분석 아이디어 경진대회**
 
-- 🌱 I’m currently learning **네이버 클라우드 캠프 데브옵스 과정**
+- 🎉 I’m currently learning **네이버 클라우드 캠프 데브옵스 과정**
+
+- 🌱 I’m learned **2023 데이터 청년 캠퍼스, 2023 한양대 비즈니스 빅데이터 연구모임**
 
 - 📝 I regularly write articles on [https://velog.io/@kimyonghwan1996/posts](https://velog.io/@kimyonghwan1996/posts)
 
