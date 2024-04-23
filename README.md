@@ -28,9 +28,9 @@
 > DeepLearning(CNN,RNN) <br/>
 
 #### Develops
-> JAVA <br/>
+> JAVA, Spring, Spring boot <br/>
 > Oracle, MySQL <br/>
-> HTML, JAVA Scripts, CSS, JPS, JQuery, Srping <br/>
+> HTML, JAVA Scripts, CSS, JPS, JQuery, React <br/>
 <br/>
 
 #### CI/CD
