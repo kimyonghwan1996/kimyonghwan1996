@@ -12,18 +12,16 @@
 - 📫 How to reach me **k55183@naver.com**
 
 #### DataEngineering
-> Python <br/>
-> PostreSQL, MySQL, Redis, MongoDB/ S3 <br/>
-> Airfolw, FastAPI, Spark, Kafka<br/>
-> Docker <br/>
+> **Python** <br/>
+> **PostreSQL, MySQL, Redis, MongoDB/ S3** <br/>
+> **Airfolw, FastAPI, Spark, Kafka** <br/>
+> **Docker** <br/>
 
 #### DataAnalysis
-> Python, R <br/>
-> Stata, SPSS <br/>
-> MachineLearning(Regression,Clusturing, Classfication ...)<br/>
-> DeepLearning(CNN,RNN) <br/>
-
-
+> **Python, R** <br/>
+> **Stata, SPSS** <br/>
+> **MachineLearning(Regression,Clusturing, Classfication ...)** <br/>
+> **DeepLearning(CNN,RNN)** <br/>
 
 # 📜 간단 이력
 
