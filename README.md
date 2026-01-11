@@ -1,16 +1,6 @@
 <h1 align="left">Hi 👋, I'm Kim YongHwan</h1>
 <h3 align="left">Dreaming for Engineer of Data & DataAnalysis expert</h3>
 
-- 🔭 I’m worked  as **Data Engineer** on **더존비즈온**
-
-- 🎉 I completed the **Naver Cloud Camp DevOps** course, focusing on development and CI/CD.
-  
-- 🌱 I participated in the**2023 데이터 청년 캠퍼스 and 2023 한양대 비즈니스 빅데이터 연구모임**, where I studied data analysis.
-
-- 📝 I regularly write articles on [https://velog.io/@kimyonghwan1996/posts](https://velog.io/@kimyonghwan1996/posts)
-
-- 📫 How to reach me **k55183@naver.com**
-
 #### DataEngineering
 > **Python** <br/>
 > **PostreSQL, MySQL, Redis, MongoDB/ S3** <br/>
