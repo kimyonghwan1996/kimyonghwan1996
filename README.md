@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **k55183@naver.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
 #### DataEngineering
 > Python <br/>
 > PostreSQL, MySQL, Redis, MongoDB/ S3 <br/>
@@ -30,7 +27,7 @@
 
 
 
-# 📜 김용환 포트폴리오
+# 📜 간단 이력
 
 > 김용환(YongHwan Kim) <br/>
 > 1996.08.07 <br/>
