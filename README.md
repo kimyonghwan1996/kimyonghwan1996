@@ -21,7 +21,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Web Scraping:** Selenium, Requests + BeautifulSoup, Scrapy
+**Web Scraping:** Selenium, Requests + BeautifulSoup, Scrapy, Playwright
 
 ### 📈 **Data Analysis & Machine Learning**
 **Languages:**
