@@ -39,6 +39,25 @@
 
 **Specializations:** Regression, Clustering, Classification, CNN, RNN
 
+### 🤖 **AI & Agent Stack**
+**LangChain Ecosystem:**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI0IiBmaWxsPSIjMUMzQzNDIi8+PHRleHQgeD0iNiIgeT0iMTgiIGZvbnQtc2l6ZT0iOCIgZmlsbD0id2hpdGUiIGZvbnQtd2VpZ2h0PSJib2xkIj5MQzwvdGV4dD48L3N2Zz4=&logoColor=white)
+
+**Vector Stores & Embeddings:**
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FFDA5E?style=flat-square&logoColor=black)
+![Chroma](https://img.shields.io/badge/Chroma-4A90E2?style=flat-square&logoColor=white)
+
+**LLM Providers:**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-7C3AED?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-3E3E3E?style=flat-square&logoColor=white)
+
+**Core Technologies:**
+- **RAG (Retrieval-Augmented Generation)**: Document loading, chunking, embedding, semantic search
+- **AI Agents**: ReAct framework, Tool use, Memory management, Chain orchestration
+- **Knowledge Bases**: FAISS, Qdrant, LangSmith for monitoring
+
 ---
 
 # 📜 Summary
